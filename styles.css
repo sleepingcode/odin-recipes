@@ -1,0 +1,20 @@
+#header {
+    color: blue
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+.paraone {
+    color: #2a9d8f;
+}
+
+.headerthree {
+    color: #3a5a40;
+}
